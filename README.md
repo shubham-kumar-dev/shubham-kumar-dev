@@ -19,7 +19,7 @@
 ## 📄 My Resume
 
 <p align="center">
-  <a href="YOUR_RESUME_LINK" target="_blank">
+  <a href="https://drive.google.com/file/d/1jLYQ2ZlK7HUlTXHzitXcVzq3R0mUHSdS/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
