@@ -16,6 +16,17 @@
 
 ---
 
+## 📄 My Resume
+
+<p align="center">
+  <a href="YOUR_RESUME_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+
+---
+
+
 ## 🛠 Tech Stack
 
 ### 🚀 Languages & Core Skills
