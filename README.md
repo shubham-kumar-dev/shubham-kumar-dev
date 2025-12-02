@@ -53,18 +53,23 @@ A mini search engine that pulls images using an API and displays responsive grid
 
 ---
 
+<!-- START: GitHub Stats -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham-kumar-dev&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-kumar-dev&theme=tokyonight" height="160px"/>
+  <!-- Overall GitHub stats (commits, followers, etc.) -->
+  <img src="https://github-readme-stats-git-master-shuburbans-projects.vercel.app/api?username=shubham-kumar-dev&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="Shubham's GitHub stats" width="380"/>
+
+  <!-- Streak / contribution chart -->
+  <img src="https://streak-stats.demolab.com/?user=shubham-kumar-dev&theme=tokyonight&border_radius=8" alt="GitHub Streak" width="380"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-kumar-dev&layout=compact&theme=tokyonight" height="160px"/>
+  <!-- Top languages used -->
+  <img src="https://github-readme-stats-git-master-shuburbans-projects.vercel.app/api/top-langs/?username=shubham-kumar-dev&layout=compact&theme=tokyonight" alt="Top Languages" width="760"/>
 </p>
+<!-- END: GitHub Stats -->
 
----
 
 ## 🌐 Connect With Me
 
