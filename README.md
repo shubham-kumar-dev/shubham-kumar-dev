@@ -64,10 +64,11 @@ A mini search engine that pulls images using an API and displays responsive grid
   <img alt="Profile" src="https://img.shields.io/badge/GitHub-shubham--kumar--dev-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
+  ## 📊 Contribution Graph
 <p align="center">
-  <!-- Contribution graph (official GitHub SVG) -->
-  <img src="https://github.com/users/shubham-kumar-dev/contributions" alt="Contribution graph" />
+  <img src="https://github.com/users/shubham-kumar-dev/contributions" />
 </p>
+
 <!-- END: GitHub Stats (Stable) -->
 
 
