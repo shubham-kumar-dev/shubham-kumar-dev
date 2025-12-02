@@ -69,12 +69,12 @@ A mini search engine that pulls images using an API and displays responsive grid
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/shubham-kumar" target="_blank">
+<a href="https://www.linkedin.com/in/shubham-kumar-132874253/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
-📩 **Email:** shubham.dev@gmail.com
+📩 **Email:** shubham.007.iam@gmail.com
 
 ---
 
