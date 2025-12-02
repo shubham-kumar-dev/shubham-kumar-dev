@@ -53,22 +53,23 @@ A mini search engine that pulls images using an API and displays responsive grid
 
 ---
 
-<!-- START: GitHub Stats -->
+<!-- START: GitHub Stats (Stable) -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Overall GitHub stats (commits, followers, etc.) -->
-  <img src="https://github-readme-stats-git-master-shuburbans-projects.vercel.app/api?username=shubham-kumar-dev&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="Shubham's GitHub stats" width="380"/>
+  <!-- Followers badge (shields.io is very reliable) -->
+  <img alt="Followers" src="https://img.shields.io/github/followers/shubham-kumar-dev?label=Followers&style=for-the-badge">
 
-  <!-- Streak / contribution chart -->
-  <img src="https://streak-stats.demolab.com/?user=shubham-kumar-dev&theme=tokyonight&border_radius=8" alt="GitHub Streak" width="380"/>
+  <!-- Public profile badge (simple identity badge) -->
+  <img alt="Profile" src="https://img.shields.io/badge/GitHub-shubham--kumar--dev-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 <p align="center">
-  <!-- Top languages used -->
-  <img src="https://github-readme-stats-git-master-shuburbans-projects.vercel.app/api/top-langs/?username=shubham-kumar-dev&layout=compact&theme=tokyonight" alt="Top Languages" width="760"/>
+  <!-- Contribution graph (official GitHub SVG) -->
+  <img src="https://github.com/users/shubham-kumar-dev/contributions" alt="Contribution graph" />
 </p>
-<!-- END: GitHub Stats -->
+<!-- END: GitHub Stats (Stable) -->
+
 
 
 ## 🌐 Connect With Me
