@@ -54,7 +54,7 @@ A complete console-based banking application using pure OOP principles
 ### 🔹 **To-Do Application – Vanilla JavaScript**
 Simple, clean and interactive to-do list to practise DOM & JS fundamentals  
 📁 **Tech:** HTML, CSS, JavaScript  
-🔗 **Repo:** *add link here*  
+🔗 **Repo:** https://github.com/shubham-kumar-dev/to-do-app 
 <br>
 
 ### 🔹 **Image Search Engine – Vanilla JS + API**
