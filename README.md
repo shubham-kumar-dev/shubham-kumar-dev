@@ -48,7 +48,7 @@
 ### 🔹 **Bank Management System – Java OOP**
 A complete console-based banking application using pure OOP principles  
 📁 **Tech:** Java, OOP, File Handling  
-🔗 **Repo:** *add link here*  
+🔗 **Repo:** https://github.com/shubham-kumar-dev/Bank-Management-System 
 <br>
 
 ### 🔹 **To-Do Application – Vanilla JavaScript**
