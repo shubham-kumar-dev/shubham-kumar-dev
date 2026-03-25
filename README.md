@@ -51,17 +51,18 @@ A complete console-based banking application using pure OOP principles
 🔗 **Repo:** https://github.com/shubham-kumar-dev/Bank-Management-System 
 <br>
 
-### 🔹 **To-Do Application – Vanilla JavaScript**
-Simple, clean and interactive to-do list to practise DOM & JS fundamentals  
-📁 **Tech:** HTML, CSS, JavaScript  
-🔗 **Repo:** https://github.com/shubham-kumar-dev/to-do-app 
-<br>
-
 ### 🔹 **Job Portal Backend System (Java + JDBC)I**
 A role-based Job Portal backend system developed using Core Java, JDBC, and MySQL.
 This application simulates a real-world hiring platform where recruiters can post jobs and job seekers can explore opportunities and apply.  
 📁 **Tech:** JAVA(Core+OOPs), SQL, JDBC 
 🔗 **Repo:**https://github.com/shubham-kumar-dev/Job-Portal-Backend-System
+<br>
+
+### 🔹 **To-Do Application – Vanilla JavaScript**
+Simple, clean and interactive to-do list to practise DOM & JS fundamentals  
+📁 **Tech:** HTML, CSS, JavaScript  
+🔗 **Repo:** https://github.com/shubham-kumar-dev/to-do-app 
+
 
 ---
 
