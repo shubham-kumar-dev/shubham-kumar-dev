@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1jLYQ2ZlK7HUlTXHzitXcVzq3R0mUHSdS/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+    <img src="https://drive.google.com/drive/u/0/folders/13UaAn_A1IpiOrCr9VFTykVL4UskLI-dt" />
   </a>
 </p>
 
