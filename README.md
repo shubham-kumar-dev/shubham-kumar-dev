@@ -57,10 +57,11 @@ Simple, clean and interactive to-do list to practise DOM & JS fundamentals
 🔗 **Repo:** https://github.com/shubham-kumar-dev/to-do-app 
 <br>
 
-### 🔹 **Image Search Engine – Vanilla JS + API**
-A mini search engine that pulls images using an API and displays responsive grid results  
-📁 **Tech:** HTML, CSS, JavaScript, API (Unsplash/others)  
-🔗 **Repo:** *add link here*  
+### 🔹 **Job Portal Backend System (Java + JDBC)I**
+A role-based Job Portal backend system developed using Core Java, JDBC, and MySQL.
+This application simulates a real-world hiring platform where recruiters can post jobs and job seekers can explore opportunities and apply.  
+📁 **Tech:** JAVA(Core+OOPs), SQL, JDBC 
+🔗 **Repo:**https://github.com/shubham-kumar-dev/Job-Portal-Backend-System
 
 ---
 
