@@ -62,7 +62,7 @@ This application simulates a real-world hiring platform where recruiters can pos
 Simple, clean and interactive to-do list to practise DOM & JS fundamentals  
 📁 **Tech:** HTML, CSS, JavaScript  
 🔗 **Repo:** https://github.com/shubham-kumar-dev/to-do-app 
-
+<br>
 
 ---
 
