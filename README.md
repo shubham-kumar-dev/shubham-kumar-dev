@@ -51,27 +51,27 @@
 ### 🔹 **AI-Integrated Study Assistant (Java + JDBC + Servlet)**
 
 An AI-powered web application built using Java Servlets and JDBC.
-Implements **REST API integration, JSON processing, and database persistence** to simulate an intelligent Q&A system.
-📁 **Tech:** Java, Servlets, JDBC, MySQL, REST API, OkHttp, JSON
+Implements **REST API integration, JSON processing, and database persistence** to simulate an intelligent Q&A system.<br>
+📁 **Tech:** Java, Servlets, JDBC, MySQL, REST API, OkHttp, JSON <br>
 🔗 **Repo:** https://github.com/shubham-kumar-dev/AI-Study-Assistant <br>
 
 ### 🔹 **Job Portal Backend System (Java + JDBC)**
 
 A role-based backend system simulating a real-world hiring platform.
 Supports job posting, application flow, and user roles using JDBC and MySQL.
-📁 **Tech:** Java, JDBC, MySQL
+📁 **Tech:** Java, JDBC, MySQL<br>
 🔗 **Repo:** https://github.com/shubham-kumar-dev/Job-Portal-Backend-System <br>
 
 ### 🔹 **Bank Management System (Java OOP)**
 
-A console-based banking system demonstrating strong **OOP principles and file handling**.
-📁 **Tech:** Java, OOP, File Handling
+A console-based banking system demonstrating strong **OOP principles and file handling**.<br>
+📁 **Tech:** Java, OOP, File Handling <br>
 🔗 **Repo:** https://github.com/shubham-kumar-dev/Bank-Management-System <br>
 
 ### 🔹 **To-Do Application (JavaScript)**
 
-Interactive task manager built to practice **DOM manipulation and frontend logic**.
-📁 **Tech:** HTML, CSS, JavaScript
+Interactive task manager built to practice **DOM manipulation and frontend logic**.<br>
+📁 **Tech:** HTML, CSS, JavaScript <br>
 🔗 **Repo:** https://github.com/shubham-kumar-dev/to-do-app <br>
 
 ---
