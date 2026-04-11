@@ -20,7 +20,7 @@
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1jLYQ2ZlK7HUlTXHzitXcVzq3R0mUHSdS/view" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-Click%20Here-blue?style=for-the-badge" />
   </a>
 </p>
@@ -93,7 +93,7 @@ Interactive task manager built to practice **DOM manipulation and frontend logic
 </a>
 </p>
 
-📩 **Email:** [shubham.007.iam@gmail.com](mailto:shubham.007.iam@gmail.com)
+📩 **Email:** [shubhamcodes.2003@gmail.com](mailto:shubhamcodes.2003@gmail.com)
 
 ---
 
