@@ -64,6 +64,14 @@ Simple, clean and interactive to-do list to practise DOM & JS fundamentals
 🔗 **Repo:** https://github.com/shubham-kumar-dev/to-do-app 
 <br>
 
+###🔹** AI-Integrated Study Assistant (Java + JDBC + Servlet)**
+
+An AI-powered web application developed using Core Java, Servlets, JDBC, and MySQL.
+This project demonstrates real-world AI API integration, where user queries are processed through an AI service layer and stored for persistence, simulating an intelligent Q&A system.
+📁 **Tech**: Java (Core + OOPs), Servlets, JDBC, MySQL, REST API, OkHttp, JSON
+🔗 **Repo**: https://github.com/shubham-kumar-dev/AI-Study-Assistant
+
+<br>
 ---
 
 <!-- START: GitHub Stats (Stable) -->
